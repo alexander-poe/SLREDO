@@ -1,4 +1,4 @@
-const DATABASE_URL = 'mongodb://demo:demo@ds159507.mlab.com:59507/mlab-sample';
+const DATABASE_URL = 'mongodb://xxxxxx:xxxxxxx@ds159507.mlab.com:59507/mlab-sample';
 
 exports.DATABASE_URL = process.env.DATABASE_URL ||
                        global.DATABASE_URL ||
